@@ -1,0 +1,85 @@
+*{
+	font-family: 'Akaya Kanadaka', cursive;
+}
+.menu-bar{
+	list-style: none;
+}
+.banner-section{
+	height: 400px;
+	width: auto;
+	background: url(../image/b-1.jpg);
+	background-position: center;
+	text-align: center;
+	color: whitesmoke;
+}
+.banner-section img{
+	height: 150px;
+	width: 100px;
+	text-align: center;
+}
+.banner-section p{
+	margin: 50px 50px 0px 50px;
+	
+}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 20%;
+	padding-top: 90px;
+  }
+  .containers{
+	  padding: 20px;
+	  height: 250px;
+	  background-color:ghostwhite;
+	  
+  }
+  .first{
+	  height: 230px;
+	  width: 50%;
+	  overflow: hidden;
+  }
+  .first img{
+	  height: 80%;
+	  width: 100%;
+	  text-align: justify;
+  } 
+  .second-banner{
+	  padding: 50px;
+	  margin-top: 10px;
+	  height: 250px;
+	  background: url(../image/b-2.jpg);
+	  background-position: center;
+	  text-align: center;
+	  text-transform:capitalize;
+	  overflow: hidden;
+  }
+  .second{
+	height: 230px;
+	width: 50%;
+	overflow: hidden;
+  }
+  .second img{
+	height: 80%;
+	width: 100%;
+	text-align: justify;
+}
+footer{
+	margin-top: 20px;
+	padding-top: 50px;
+	height: 200px;
+	background-color: rgba(24, 105, 236, 0.746);
+	text-align: center;
+	color: whitesmoke;
+}
+.search-bar{
+	background-color: rgb(49, 22, 228);
+	color: white;
+	border-radius: 0px;
+}
+.btn{
+	border: 0px;
+	border-radius: 2px;
+	background-color: whitesmoke;
+	height: 30px;
+}
